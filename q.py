@@ -1,0 +1,3 @@
+import pyfri
+
+print("hi")
